@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_mark">Marque</string>
+    <string name="hint_model">Modèle</string>
+    <string name="hint_color">Couleur</string>
+    <string name="hint_specifications">Caractéristiques</string>
+    <string name="hint_size">Taille</string>
+    <string name="hint_save">Sauver</string>
+</resources>

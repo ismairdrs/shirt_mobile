@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_mark">ブランド</string>
+    <string name="hint_model">モデル</string>
+    <string name="hint_color">色</string>
+    <string name="hint_specifications">仕様</string>
+    <string name="hint_size">サイズ</string>
+    <string name="hint_save">保存する</string>
+</resources>

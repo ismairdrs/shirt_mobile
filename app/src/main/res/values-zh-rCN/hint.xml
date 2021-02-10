@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_mark">牌</string>
+    <string name="hint_model">模型</string>
+    <string name="hint_color">顏色</string>
+    <string name="hint_specifications">技術指標</string>
+    <string name="hint_size">尺寸</string>
+    <string name="hint_save">保存</string>
+</resources>

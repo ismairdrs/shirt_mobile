@@ -1,6 +1,6 @@
 
 
-#Cronograma de aulas:
+Cronograma de aulas:
 1. ciclo de vida de uma atividade
 2. Debug do ciclo de vida de uma atividade
 3. Adapters
